@@ -1,0 +1,1 @@
+# Arquivo principal que inicia o app

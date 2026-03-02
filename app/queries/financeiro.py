@@ -1,0 +1,1 @@
+# Queries de faturamento (do MVP 1)

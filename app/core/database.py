@@ -1,0 +1,1 @@
+# Conexão oficial com o Supabase
